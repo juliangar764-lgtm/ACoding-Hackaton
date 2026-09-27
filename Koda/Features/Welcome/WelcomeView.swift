@@ -105,7 +105,7 @@ struct WelcomeView: View {
                 )
                 .accessibilityAddTraits(.isHeader)
 
-            Text("Entiende POO, paso a paso con Srwift")
+            Text("Entiende POO, paso a paso con Swift")
                 .font(.headline)
 
             Text(
